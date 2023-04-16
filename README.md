@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aashayk18" target="blank"><img src="https://img.shields.io/twitter/follow/aashayk18?logo=twitter&style=for-the-badge" alt="aashayk18" /></a> </p>
 
-- 🔭 I’m currently working on **a Bug Tracker application**
+- 🔭 I’m currently working on **a bug tracker application**
 
 - 🌱 I’m currently learning **advanced java and back-end web development**
 
