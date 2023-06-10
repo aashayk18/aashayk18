@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashay</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashayk18&label=Profile%20views&color=0e75b6&style=flat" alt="aashayk18" /> </p>
 
@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **web-dev projects**
 
-- 👨‍💻 My best projects are available at [https://aashayk18-portfolio.vercel.app/](https://aashayk18-portfolio.vercel.app/)
+- 👨‍💻 My best projects are available on [my portfolio](https://aashayk18-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@aashayk18](https://medium.com/@aashayk18)
+- 📝 I regularly write articles on [medium](https://medium.com/@aashayk18)
 
 - 💬 Ask me about **AWS, Python, JS**
 
-- 📫 How to reach me **aashayk100@gmail.com**
+- 📫 Reach out to me at **aashayk100@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13wFCbUtRQfpYSYM5genioEgTJj_PIVZZ/view?usp=sharing](https://drive.google.com/file/d/13wFCbUtRQfpYSYM5genioEgTJj_PIVZZ/view?usp=sharing)
 
