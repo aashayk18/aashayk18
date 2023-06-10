@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **web-dev projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-teal.vercel.app/](https://my-portfolio-website-teal.vercel.app/)
+- 👨‍💻 My best projects are available at [https://aashayk18-portfolio.vercel.app/](https://aashayk18-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@aashayk18](https://medium.com/@aashayk18)
 
