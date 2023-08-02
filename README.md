@@ -21,7 +21,7 @@
 
 - 📫 Reach out to me at **aashayk100@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/13wFCbUtRQfpYSYM5genioEgTJj_PIVZZ/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/11JG7OijGDJLu6lxfp5KGjfz2ccbblKFr/view?usp=sharing)
 
 - ⚡ Fun fact **I have a forehead scar and I love Harry Potter**
 
