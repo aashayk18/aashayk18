@@ -7,23 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/aashayk18" target="blank"><img src="https://img.shields.io/twitter/follow/aashayk18?logo=twitter&style=for-the-badge" alt="aashayk18" /></a> </p>
 
-- 🔭 I’m currently working on **a bug tracker application and a LeetCode-to-Github automation tool**
+- 🔭 I’m currently working on **a bug tracking and management system**
 
-- 🌱 I’m currently learning **advanced java and back-end web development**
+- 🌱 I’m currently learning **advanced java and back-end development**
 
-- 👯 I’m looking to collaborate on **web-dev projects**
+- 👯 I’m open to collaborate on **web application development**
 
-- 👨‍💻 My best projects are available on [my portfolio](https://aashayk18-portfolio.vercel.app/)
-
-- 📝 I regularly write articles on [medium](https://medium.com/@aashayk18)
+- 👨‍💻 Check out my best works on [my portfolio](https://aashayk18-portfolio.vercel.app/)
 
 - 💬 Ask me about **AWS, Java, OOPS, Python, JS**
 
-- 📫 Reach out to me at **aashayk100@gmail.com**
-
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1Xf7o3c-RZ4T1BhMWilkxs7MkSYfiYnDL/view?usp=drive_link)
 
-- ⚡ Fun fact **I have a forehead scar and I love Harry Potter**
+- ⚡ Fun fact about me -  **I have a forehead scar and I love Harry Potter**
+
+-  📫 Reach out to me at **aashayk100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
