@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@aashayk18)
 
-- 💬 Ask me about **AWS, Python, JS**
+- 💬 Ask me about **AWS, Java, OOPS, Python, JS**
 
 - 📫 Reach out to me at **aashayk100@gmail.com**
 
