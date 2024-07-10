@@ -1,13 +1,9 @@
 <h1 align="center">Hey, there✌🏻</h1>
 <h3 align="center">I'm Aashay. a software dev and storyteller.</h3>
 
-<p align="left"> <a href="https://twitter.com/aashayk18" target="blank"><img src="https://img.shields.io/twitter/follow/aashayk18?logo=twitter&style=for-the-badge" alt="aashayk18" /></a> </p>
-
 - 🔭 I’m currently working as **a full-stack dev**
 
 - 🌱 I’m currently learning **CI/CD and Kubernetes**
-
-- 👯 I’m open to collaborate on **web-dev projects**
 
 - 👨‍💻 Check out my work at [my portfolio](https://aashayk18-portfolio.vercel.app/)
 
